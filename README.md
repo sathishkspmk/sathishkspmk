@@ -42,7 +42,22 @@ This section is about your regular work / project, not about the code in this re
 
 Think about guiding refactoring-work in your regular/project teams. Think of the day-to-day work done in your team, and improving the quality of code.
 
-You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? **_enter yes/no**
+You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? ** yes **
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-**_enter the practice here**
+
+## Improvement of code-quality practice
+
+1. Avoid duplication of the code
+
+2. Make simpilar, readable and do not make complexity
+
+3. Write description of the member/variable usage
+
+4. Coding guidlines to be followed
+
+5. UT is writtern for each function
+
+6. Corner case to be validated using UT test case
+
+7. Improve code coverage in unit test case

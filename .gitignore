@@ -4,3 +4,5 @@ testchecker
 *.gcov
 *.info
 *.html
+*build
+*.out
